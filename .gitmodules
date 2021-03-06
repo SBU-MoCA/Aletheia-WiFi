@@ -1,0 +1,6 @@
+[submodule "Aletheia-Analyzer"]
+	path = Aletheia-Analyzer
+	url = https://github.com/SBU-MoCA/Aletheia-Analyzer.git
+[submodule "Aletheia-edge"]
+	path = Aletheia-edge
+	url = https://github.com/SBU-MoCA/Aletheia-edge
